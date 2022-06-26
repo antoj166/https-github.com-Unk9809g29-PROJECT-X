@@ -6,7 +6,7 @@ requests
 multivolumefile
 youtube-dl
 emoji
-ujson
-request_toolbelt
+ujson 5.3.0
+request_toolbelt 0.9.1
 pytz
 user_agent
